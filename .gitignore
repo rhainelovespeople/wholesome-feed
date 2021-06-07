@@ -1,4 +1,5 @@
-keys.txt
+api_keys.json
+scraped_tweets_file.json
 
 # Byte-compiled / optimized / DLL files
 __pycache__/
